@@ -35,11 +35,11 @@ The challenge is also to find a shared language in describing how a hike felt, w
 
 ## What next?
 
-*Compliance and legal for ensuring that det data is collected the right way. 
-*Showing it to get the existing websites and applications on board. 
-*Finding people who are willing to deliver training data to the model.
-*Programmers to develop and test models.
-*People who are willing to test the first generation of the model. 
+* Compliance and legal for ensuring that det data is collected the right way. 
+* Showing it to get the existing websites and applications on board. 
+* Finding people who are willing to deliver training data to the model.
+* Programmers to develop and test models.
+* People who are willing to test the first generation of the model. 
 
 
 ## Acknowledgments
