@@ -1,5 +1,5 @@
 
-#Personal Hiking model 
+# Personal Hiking model 
 Final project for the Building AI course
 Building AI course project
 
