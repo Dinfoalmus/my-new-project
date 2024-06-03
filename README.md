@@ -32,6 +32,19 @@ This program will be dealing with sensitive data. This should be taken care of i
 The model should be integrated with already existing applications. 
 The challenge is also to find a shared language in describing how a hike felt, what is “safe”, etc.. 
 
+Training data:
+Getting data from different labeled users. (pulsdata, HM, distance, time)
+The training data should be labeled after level of experiance.
+The users should be trying and rating different routes, and the fitness data (pulsdata, HM, distance, time) should be analyzed.
+Routes will be labeled from the training data users.
+Bias should be considuirated and testet. Weihgts should be testet. 
+
+Test data:
+Labeling of test users data (pulsdata, HM, distance, time).
+The test users should be testing hikes that is macthed with their level acording to the trained model.
+
+Following adjusting data:
+Users could be giving data to continuasly update the model to give better predictions.
 
 ## What next?
 
