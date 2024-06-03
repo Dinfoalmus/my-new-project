@@ -27,10 +27,7 @@ The data should be biased by hiking professionals’ guidance to ensure safer ou
 
 I imagine the tools could be classification for the different routes on the different data. The classification should shed light on unknown parameters for the level of a route. This could also be done by unsupervised learning models. For it to get better it should be updated with data from all users. 
 If there seems to be a potential problem in getting the right data (users responding honest) it could be considered to run the model only with know data.  
-## Challenges
-This program will be dealing with sensitive data. This should be taken care of in the right way. 
-The model should be integrated with already existing applications. 
-The challenge is also to find a shared language in describing how a hike felt, what is “safe”, etc.. 
+
 
 Training data:
 Getting data from different labeled users. (pulsdata, HM, distance, time)
@@ -45,6 +42,11 @@ The test users should be testing hikes that is macthed with their level acording
 
 Following adjusting data:
 Users could be giving data to continuasly update the model to give better predictions.
+
+## Challenges
+This program will be dealing with sensitive data. This should be taken care of in the right way. 
+The model should be integrated with already existing applications. 
+The challenge is also to find a shared language in describing how a hike felt, what is “safe”, etc.. 
 
 ## What next?
 
