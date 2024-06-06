@@ -12,7 +12,7 @@ Hiking is becoming more and more popular. Many wish to hike in untouched landsca
 My own experience is that it can sometimes be difficult to determine whether or not to go on a specific hike because a have no comparable data to the route description. 
 This model seeks to solve these problems:
 * avoiding users going on a higher leveled route compared to the users experience and physical form
-* reduce the number of times local rescue times should take action
+* reduce the number of times local rescue teams should take action
 * avoid the user having to choose a route out of doubt
 *providing data to become a better hiker 
 
