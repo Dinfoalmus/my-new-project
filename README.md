@@ -53,8 +53,9 @@ Regression models should be used to analyze the variables for supervised learnin
 - Unsupervised:
 Clustering and unsupervised learning could train the model and recognize patterns in the training data. This should be used to suggest the best routes in the end.
 This model will help us notice unknown factors to data and recommendations. 
-For this model unsupervised learning could result in a more varied recommendation feature. 
+For this model unsupervised learning could result in a more varied recommendation feature.
 
+Choosing the wright ML methods depends on how the obtained data turns out after the processing. 
 
 ## Challenges
 This program will be dealing with sensitive data. This should be taken care of in the right way. 
