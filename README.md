@@ -25,7 +25,10 @@ It should provide data for what to look for when planning  and searching for rou
 The data should be collected from hikers with different levels. The hikers should be giving data on how the felt on the hike,  if they felt safe, etc.. 
 The data should be biased by hiking professionals’ guidance to ensure safer output data from the model. 
 
-I imagine the tools could be classification for the different routes on the different data. The classification should shed light on unknown parameters for the level of a route. This could also be done by unsupervised learning models. For it to get better it should be updated with data from all users. 
+Regression models should be used to analyze the variabels. 
+Unsupervised learning should train the model and regonize the patterns. This should be used to suggest the best rutes in the end.
+
+I imagine the tools could be classification for the different routes on the different data. The classification should shed light on unknown parameters for the level of a route. For it to get better it should be updated with data from all users. 
 If there seems to be a potential problem in getting the right data (users responding honest) it could be considered to run the model only with know data.  
 
 
