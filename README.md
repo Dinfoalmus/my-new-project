@@ -14,7 +14,7 @@ This model seeks to solve these problems:
 * avoiding users going on a higher leveled route compared to the users experience and physical form
 * reduce the number of times local rescue teams should take action
 * avoid the user having to choose a route out of doubt
-*providing data to become a better hiker 
+* providing data to become a better hiker 
 
 ## How is it used?
 
