@@ -25,8 +25,6 @@ It should provide data for what to look for when planning  and searching for rou
 The data should be collected from hikers with different levels. The hikers should be giving data on how the felt on the hike,  if they felt safe, etc.. 
 The data should be biased by hiking professionals’ guidance to ensure safer output data from the model. 
 
-Regression models should be used to analyze the variabels. 
-Unsupervised learning should train the model and regonize the patterns. This should be used to suggest the best rutes in the end.
 
 I imagine the tools could be classification for the different routes on the different data. The classification should shed light on unknown parameters for the level of a route. For it to get better it should be updated with data from all users. 
 If there seems to be a potential problem in getting the right data (users responding honest) it could be considered to run the model only with know data.  
@@ -46,10 +44,23 @@ The test users should be testing hikes that is macthed with their level acording
 Following adjusting data:
 Users could be giving data to continuasly update the model to give better predictions.
 
+Methods:
+
+- Supervised learning:
+This approach require all parameters is well known in both the training and test data. 
+Regression models should be used to analyze the variables for supervised learning, defining whether a route is a good choice with a given a probability. 
+
+- Unsupervised:
+Clustering and unsupervised learning could train the model and recognize patterns in the training data. This should be used to suggest the best routes in the end.
+This model will help us notice unknown factors to data and recommendations. 
+For this model unsupervised learning could result in a more varied recommendation feature. 
+
+
 ## Challenges
 This program will be dealing with sensitive data. This should be taken care of in the right way. 
 The model should be integrated with already existing applications. 
 The challenge is also to find a shared language in describing how a hike felt, what is “safe”, etc.. 
+
 
 ## What next?
 
